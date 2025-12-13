@@ -9,7 +9,7 @@ The application uses several macros linked together to accomplish this.
 
 ### Purpose
 This sheet was made to help make organizing your taxes easier. As crypto is normally bought and sold in fractional amounts, I found it difficult to keep track of what
-my gain/loss really was. For example, a large bought quantity of crypto is sold over multiple dates at multiple prices. Not to mention some sales would be long or short depending on when a specific quantity of crypto was aquired. 
+my gain/loss really was. For example, a large bought quantity of crypto is sold over multiple dates at multiple prices. Not to mention some sales would be long or short depending on when a specific quantity of crypto was acquired. 
 
 Rather than spend days every tax season trying to keep my head above water, I developed this application. As it is a VBA application, it has its limits.
 Therefore, this program can be best utilized by the amatuer investor. 
