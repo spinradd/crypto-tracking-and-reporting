@@ -37,7 +37,7 @@ throughout the main macros in the report (there aren't that many), then feel fre
 
 ## Use
 To use, you will fill out the main transaction table on the "Transaction" sheet like you would any other ledger of transactions. 
-To run the report effectivel, you'll need the date of transaction, the type, the currency, the quantity, and the value. More on this below under **Setup**.
+To run the report effectively, you'll need the date of transaction, the type, the currency, the quantity, and the value. More on this below under **Setup**.
 
 This workbook makes a few assumptions on how you fill out your main transaction table, where you will log buys, sales, fees, and earned income:
 - Your transactions are accurate
