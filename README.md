@@ -14,9 +14,6 @@ my gain/loss really was. For example, a large bought quantity of crypto is sold 
 Rather than spend days every tax season trying to keep my head above water, I developed this application. As it is a VBA application, it has its limits.
 Therefore, this program can be best utilized by the amatuer investor. 
 
-I am currently developing a python equivalent that will be much more suited to the
-advanced investor who can expectedly have thousands of transactions over numerous currencies.
-
 ## Setup
 You will need to enable scripting runtime to use this program's reporting capabilities.
 
